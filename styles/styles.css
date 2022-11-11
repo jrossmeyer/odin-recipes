@@ -1,0 +1,54 @@
+h1.home  {
+    background-color:aqua;
+    color: orangered;
+    text-align: center;
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link {
+    background-color:cornsilk;
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.headline {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.instructions,
+.description {
+    background-color: darkslategrey;
+    color:gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    background-color: azure;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li {
+    color:brown
+}
+
+p.note {
+    font-weight: lighter;
+    
+}
+
+.description {
+    font-weight: lighter;
+    
+    
+}
